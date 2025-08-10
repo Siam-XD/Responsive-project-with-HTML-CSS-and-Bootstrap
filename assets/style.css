@@ -1,0 +1,20 @@
+body {
+    background-color: #F4D04E;
+}
+.card-body > img {
+    width: 100%;
+}
+.body-text {
+    color: #111111;
+}
+.body-text > p {
+    color: #6B6B6B;
+}
+.body-text > span {
+    width: 100px;
+    background-color: #F4D04E;
+}
+.avatar > img {
+    width: 32px;
+    height: 32px;
+}
